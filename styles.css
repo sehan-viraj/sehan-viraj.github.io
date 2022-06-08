@@ -175,6 +175,7 @@ h3 {
 	height: 250px;
 	width: 200px;
 	overflow: hidden;
+	box-shadow: 0 0 5px 0 #777;
 }
 .logo .logo-text {
 	display: false;

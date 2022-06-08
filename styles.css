@@ -166,9 +166,11 @@ h3 {
 	cursor: pointer;
 }
 .logo .logo-image {
+	position: absolute;
 	margin: 2px;
 	height: 250px;
-	width: 150px;
+	width: 200px;
+	overflow: hidden;
 }
 .logo .logo-text {
 	display: false;

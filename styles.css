@@ -167,6 +167,10 @@ h3 {
 }
 .logo .logo-image {
 	position: absolute;
+	top: 0;
+	left: 0;
+	right: false;
+	bottom: false;
 	margin: 2px;
 	height: 250px;
 	width: 200px;

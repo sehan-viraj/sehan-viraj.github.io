@@ -176,6 +176,7 @@ h3 {
 	width: 200px;
 	overflow: hidden;
 	box-shadow: 0 0 5px 0 #777;
+	border-radius: 15px 0 0 15px;
 }
 .logo .logo-text {
 	display: false;
